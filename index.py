@@ -36,13 +36,13 @@ def convertVideo(vars):
 	hls.representations(_360p)
 	hls.output('/home/rendy/Desktop/hls.m3u8')
 
-# input1 = input()
-# no1 = rubahKata(input1)
-# print(no1)
+input1 = input()
+no1 = rubahKata(input1)
+print(no1)
 
-# no2 = fizzBuzz()
+no2 = fizzBuzz()
 
-# no3 = no3()
+no3 = no3()
 
 input5 = input()
 no5 = convertVideo(input5)
